@@ -1,4 +1,3 @@
-# five
 local ChangerFound = false
 local ChangerRemote = nil
 local ToppingFound = false
