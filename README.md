@@ -1,4 +1,3 @@
-# five
 local troller = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
 local nameofgui = Instance.new("TextLabel")
